@@ -10,11 +10,7 @@
      
  ### Steps
    
-   [x] - download files
-   
-   [x] - create a folder on your desktop
-   
-   [x] - name it "ClientSettings" (must be the exact same name)
+   [x] - download "ClientSettings" folder from this repo
    
    [x] - type in roblox player and right click it then open file location
    
