@@ -6,7 +6,7 @@
      
  ### Steps
    
-   [x] download files
+   [x] - download files
    
    [x] - create a folder on your desktop
    
